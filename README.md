@@ -19,4 +19,4 @@ Table table = new Table.Builder().
 ```
 
 # LICENSE 
-[Apache 2.0](LICENSE)
+[Apache License 2.0](LICENSE)
