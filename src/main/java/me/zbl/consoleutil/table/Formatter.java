@@ -17,6 +17,8 @@
 package me.zbl.consoleutil.table;
 
 /**
+ * 文本格式化器
+ *
  * @author JamesZBL
  * @email 1146556298@qq.com
  * @date 2018-05-17
@@ -29,6 +31,8 @@ public interface Formatter<T> {
    * @param raw 原始对象
    *
    * @return 格式化后对象
+   *
+   * @throws CellLengthOutofRangeException 单元格字符长度大于预定值
    */
   T format(T raw) throws CellLengthOutofRangeException;
 }
