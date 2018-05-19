@@ -1,6 +1,8 @@
 # Console Util For Better Printing
+[![Build Status](https://travis-ci.org/JamesZBL/console-util.svg?branch=master)](https://travis-ci.org/JamesZBL/console-util)
 [![LICENSE](https://img.shields.io/:license-Apache 2-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 ![GitHub release](https://img.shields.io/github/release/jameszbl/console-util.svg)
+
 
 
 ## 表格
