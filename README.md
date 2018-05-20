@@ -4,7 +4,7 @@
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util)
 ![GitHub release](https://img.shields.io/github/release/jameszbl/console-util.svg)
 
-# Dependency
+## How to use
 
 Maven
 
