@@ -1,6 +1,7 @@
 # Console Util For Better Printing
 [![Build Status](https://travis-ci.org/JamesZBL/console-util.svg?branch=master)](https://travis-ci.org/JamesZBL/console-util)
 [![LICENSE](https://img.shields.io/badge/license-Apache%202-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![Maven central](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util)
 ![GitHub release](https://img.shields.io/github/release/jameszbl/console-util.svg)
 
 
