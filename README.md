@@ -41,5 +41,5 @@ Table table = new Table.Builder().
     System.out.println(table);
 ```
 
-# LICENSE 
+## LICENSE 
 [Apache License 2.0](LICENSE)
