@@ -4,11 +4,28 @@
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.jameszbl/console-util)
 ![GitHub release](https://img.shields.io/github/release/jameszbl/console-util.svg)
 
+# Dependency
 
+Maven
 
-## 表格
-
+```xml
+<dependency>
+    <groupId>com.github.jameszbl</groupId>
+    <artifactId>console-util</artifactId>
+    <version>1.0.2</version>
+</dependency>
 ```
+
+Gradle
+
+```groovy
+compile group: 'com.github.jameszbl', name: 'console-util', version: '1.0.2'
+```
+
+
+## Table
+
+```java
 Table table = new Table.Builder().
             // 列名
             columns(new String[]{"班级", "学号", "姓名", "性别"}).
